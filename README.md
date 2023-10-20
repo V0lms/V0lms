@@ -1,6 +1,6 @@
 <div id="kata">
-  <p>co</p>
-  <immg src="https://www.codewars.com/users/V0lms/badges/large"></immg>
+  <p>Codewars</p>
+  <img src="https://www.codewars.com/users/V0lms/badges/large"></immg>
 </div>
 
 <!--
