@@ -1,4 +1,7 @@
-### Hi there 👋
+<div id="kata">
+  <p>co</p>
+  <immg src="https://www.codewars.com/users/V0lms/badges/large"></immg>
+</div>
 
 <!--
 **V0lms/V0lms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
